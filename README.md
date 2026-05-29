@@ -1,25 +1,15 @@
-# Template-project
+# Robot Otto MKS — Projet de Robotique Embarquée
 
-Template pour la création d'un repo type projet pour le MakerSpace. Doc gérée via le thème [Just-The-Docs](https://just-the-docs.com) en vanilla.
+Bienvenue sur le repository de notre projet Robot Otto MKS réalisé dans le cadre du module de robotique embarquée à UniLaSalle Amiens.
 
-## Bienvenue sur Notre Projet
+Ce projet a pour objectif de développer un robot bipède capable de se déplacer de manière autonome et stable grâce à une carte ESP32-C3, des servomoteurs et une communication Bluetooth BLE.
 
-Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les ressources nécessaires pour comprendre, utiliser et contribuer à notre projet.
+À travers ce projet, nous avons travaillé sur plusieurs aspects de la robotique embarquée tels que le contrôle des mouvements, la gestion des capteurs, la communication sans fil ainsi que l’optimisation des déplacements du robot.
 
-### Contenu du Repository
+Ce repository regroupe l’ensemble des ressources du projet :
+- la documentation technique ;
+- les fichiers sources du programme ;
+- les différentes configurations utilisées ;
+- les informations nécessaires à la compréhension et à l’utilisation du robot.
 
-- **Documentation :** Toutes les documentations techniques et guides d'utilisation sont disponibles dans le dossier `docs`. Voir le site de doc associé. 
-- **project :** Toutes les sources de notre projet.
-
-### Comment Utiliser ce Repository ?
-
-- Pour commencer, consultez la documentation dans le dossier `docs`.
-- Si vous souhaitez contribuer au projet, veuillez lire nos directives de contribution.
-
-## Contribution
-
-Nous accueillons et apprécions toute contribution. Si vous souhaitez contribuer, veuillez consulter notre guide de contribution pour connaître nos attentes et notre processus.
-
-## Contact
-
-Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter.
+Le projet a également été développé dans le cadre d’une compétition de robotique visant à faire évoluer le robot le plus rapidement et le plus précisément possible sur un parcours défini.
